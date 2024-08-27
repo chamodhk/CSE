@@ -1,0 +1,16 @@
+encrypted_msg = input()
+letters = []
+for letter in encrypted_msg:
+    if letter not in letters and letter != " ":
+        letters.append(letter)
+letters.sort()
+decrypting_dict = {' ': ' '}
+for i in range(len(letters)):
+    decrypting_dict[letters[i]] = letters[(i+1)*-1]
+
+decrypted_msg = ''
+
+for char in encrypted_msg:
+    decrypted_msg += decrypting_dict[char]
+
+print(decrypted_msg)
