@@ -1,5 +1,4 @@
-in_msg = 'EXAMPLESINPUT 4'
-
+in_msg = 'EXAMPLESINPUT 4'  #replace this with ur input code
 msg = in_msg.split()[0]
 num = int(in_msg.split()[1])
 
