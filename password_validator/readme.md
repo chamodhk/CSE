@@ -1,1 +1,1 @@
-!(https://uniofmora-my.sharepoint.com/:i:/r/personal/upendramas_20_uom_lk/Documents/Mora/ACA%202021/2%20-%20Programming%20Fundamentals%20-%203%20Credits/Python/Lab%20Exercises%202018/2018/L9/L9.A1.png?csf=1&web=1&e=xLCQ0U)
+![](https://imgur.com/a/7zihtQc))
